@@ -1,6 +1,4 @@
-# Chat-Application
+# Online chatting system using HTML/CSS/JavaScript/jQuery/PHP/AJAX  
 
-This is a chat application built using PHP, and Apache Tomcat Server.
-People can chat using this application and the chat history will be stored in the form of text files.
-
-The user name and password can be inserted into the database using the createDB file. This application uses SQLite as the backend.
+This is a web based chatting system. File system is used for saving chat history and MySQL for storing username and password to log into the application 
+Server: Apache Tomcat
